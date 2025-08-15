@@ -3,6 +3,7 @@ import clase2
 tamano=int(input("ingrese el tamaño de la matriz: "))
 matriz=clase2.Matriz(tamano)
 matriz2=matriz.crear_matriz()
+
 for x in matriz2:
     print(x)
 

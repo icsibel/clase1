@@ -4,7 +4,7 @@ class Matriz:
     tamano= 0
 
     def __init__(self, tamano):
-        self.tamano=tamano
+        self.tamano=tamano 
 
     def crear_matriz(self):
         
